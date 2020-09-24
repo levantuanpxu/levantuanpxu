@@ -1,0 +1,13 @@
+D:\gif CG\levantuanpxu\ktra2\bin\Debug\netcoreapp3.1\ktra2.exe
+D:\gif CG\levantuanpxu\ktra2\bin\Debug\netcoreapp3.1\ktra2.deps.json
+D:\gif CG\levantuanpxu\ktra2\bin\Debug\netcoreapp3.1\ktra2.runtimeconfig.json
+D:\gif CG\levantuanpxu\ktra2\bin\Debug\netcoreapp3.1\ktra2.runtimeconfig.dev.json
+D:\gif CG\levantuanpxu\ktra2\bin\Debug\netcoreapp3.1\ktra2.dll
+D:\gif CG\levantuanpxu\ktra2\bin\Debug\netcoreapp3.1\ktra2.pdb
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.csprojAssemblyReference.cache
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.AssemblyInfoInputs.cache
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.AssemblyInfo.cs
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.csproj.CoreCompileInputs.cache
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.dll
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.pdb
+D:\gif CG\levantuanpxu\ktra2\obj\Debug\netcoreapp3.1\ktra2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\gif CG\levantuanpxu\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+D:\gif CG\levantuanpxu\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+D:\gif CG\levantuanpxu\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+D:\gif CG\levantuanpxu\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+D:\gif CG\levantuanpxu\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+D:\gif CG\levantuanpxu\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.csprojAssemblyReference.cache
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+D:\gif CG\levantuanpxu\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache

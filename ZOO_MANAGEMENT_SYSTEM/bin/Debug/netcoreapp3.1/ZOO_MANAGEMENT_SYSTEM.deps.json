@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZOO_MANAGEMENT_SYSTEM/1.0.0": {
+        "runtime": {
+          "ZOO_MANAGEMENT_SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZOO_MANAGEMENT_SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

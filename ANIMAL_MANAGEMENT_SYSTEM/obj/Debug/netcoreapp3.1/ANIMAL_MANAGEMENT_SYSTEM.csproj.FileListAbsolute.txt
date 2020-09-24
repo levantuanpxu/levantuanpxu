@@ -1,0 +1,13 @@
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\bin\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.exe
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\bin\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.deps.json
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\bin\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.runtimeconfig.json
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\bin\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.runtimeconfig.dev.json
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\bin\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.dll
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\bin\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.pdb
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.csprojAssemblyReference.cache
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.AssemblyInfoInputs.cache
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.AssemblyInfo.cs
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.csproj.CoreCompileInputs.cache
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.dll
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.pdb
+D:\gif CG\levantuanpxu\ANIMAL_MANAGEMENT_SYSTEM\obj\Debug\netcoreapp3.1\ANIMAL_MANAGEMENT_SYSTEM.genruntimeconfig.cache
